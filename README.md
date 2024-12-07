@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)  
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)  
-![Language](https://img.shields.io/badge/language-C%2B%2B-blue)  
+![Language](https://img.shields.io/badge/language-C-blue)  
 
-Anti-DDoS Protection System for Growtopia Private Server (GTPS) is a C++-based application designed to detect and mitigate Distributed Denial-of-Service (DDoS) attacks targeting Growtopia private servers. This system includes an **auto block IP** feature to automatically block malicious IPs and protect your GTPS from downtime.
+Anti-DDoS Protection System for Growtopia Private Server (GTPS) is a C-based application designed to detect and mitigate Distributed Denial-of-Service (DDoS) attacks targeting Growtopia private servers. This system includes an **auto block IP** feature to automatically block malicious IPs and protect your GTPS from downtime.
 
 ---
 
